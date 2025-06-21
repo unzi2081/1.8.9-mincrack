@@ -1,0 +1,10 @@
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\bin\Release\1.8.9 crackmin.exe.config
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\bin\Release\1.8.9 crackmin.exe
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\bin\Release\1.8.9 crackmin.pdb
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\obj\Release\1.8.9 crackmin.csproj.AssemblyReference.cache
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\obj\Release\_1._8._9_crackmin.Form1.resources
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\obj\Release\_1._8._9_crackmin.Properties.Resources.resources
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\obj\Release\1.8.9 crackmin.csproj.GenerateResource.cache
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\obj\Release\1.8.9 crackmin.csproj.CoreCompileInputs.cache
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\obj\Release\1.8.9 crackmin.exe
+C:\Users\unzi\source\repos\1.8.9 crackmin\1.8.9 crackmin\obj\Release\1.8.9 crackmin.pdb
